@@ -11,7 +11,7 @@
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 
 <br />
-
+[linkedin]:https://www.linkedin.com/in/melike-nur-k%C3%B6seo%C4%9Flu-2aaa27209/
 [gmail]: mailto:koseoglumelikenur@gmail.com
 
 <br />
