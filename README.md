@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 💻I am software engineering student<br> 
-- 🌱I’m currently learning Flutter<br>
+- 🌱I’m currently learning React<br>
 
 
 ## 🌐 Socials:
