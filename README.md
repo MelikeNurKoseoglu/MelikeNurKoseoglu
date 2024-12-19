@@ -1,6 +1,5 @@
 # 💫 About Me:
-- 💻I am software engineering student<br> 
-- 🌱I’m currently learning React<br>
+- 💻I am software engineer<br> 
 
 
 ## 🌐 Socials:
