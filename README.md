@@ -1,7 +1,6 @@
 # 💫 About Me:
 - 💻 I am a software engineer
 - 🌐 https://melike-nur-koseoglu.vercel.app/
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/melikenurkoseoglu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melike-nur-k%C3%B6seo%C4%9Flu-2aaa27209/)  
 
